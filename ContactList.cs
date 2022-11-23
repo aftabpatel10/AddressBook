@@ -23,6 +23,11 @@ namespace AddressBook
             throw new NotImplementedException();
         }
 
+        internal void RemovePerson()
+        {
+            throw new NotImplementedException();
+        }
+
         internal void WelcomeMessage()
         {
             throw new NotImplementedException();
