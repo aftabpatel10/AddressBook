@@ -13,6 +13,11 @@ namespace AddressBook
             throw new NotImplementedException();
         }
 
+        internal void EditPerson()
+        {
+            throw new NotImplementedException();
+        }
+
         internal void ListPeople()
         {
             throw new NotImplementedException();
